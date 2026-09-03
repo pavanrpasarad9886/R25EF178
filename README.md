@@ -3,3 +3,7 @@
  Learning java
  Interested in web development
  Goal: become a skilled software developer
+ 
+ ## Projects
+
+I am working on a personal portfolio website to showcase my skills, projects, and learning progress.
