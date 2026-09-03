@@ -4,6 +4,6 @@
  Interested in web development
  Goal: become a skilled software developer
  
- ## Projects
+## Projects
 
 I am working on a personal portfolio website to showcase my skills, projects, and learning progress.
